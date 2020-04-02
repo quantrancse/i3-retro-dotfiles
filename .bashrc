@@ -93,10 +93,14 @@ unset use_color safe_term match_lhs sh
 alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
-alias np='nano -w PKGBUILD'
-alias more=less
-alias up="sudo pacman -Syu"
 alias mpvyt="mpv --ytdl-format=\"bestvideo[ext=mp4][height<=?1080]+bestaudio[ext=m4a]\""
+
+alias up="sudo pacman -Syu"
+alias up-mirror="sudo pacman-mirrors --fasttrack && sudo pacman -Syyu"
+alias clpkg="sudo pacman -Rns $(pacman -Qdtq)"
+alias clram="sudo sh -c \"sync; echo 3 > /proc/sys/vm/drop_caches\""
+alias data="cd /mnt/DATA; ranger"
+
 
 xhost +local:root > /dev/null 2>&1
 
@@ -143,6 +147,10 @@ ex ()
 # better yaourt colors
 export YAOURT_COLORS="nb=1:pkg=1:ver=1;32:lver=1;45:installed=1;42:grp=1;34:od=1;41;5:votes=1;44:dsc=0:other=1;35"
 
+export JAVA_HOME=/home/quantrancse/Downloads/jdk1.8.0_231/
+export PATH=$JAVA_HOME/bin:$PATH
+
+export ANTLR_JAR=/home/quantrancse/bin/antlr-4.7.2-complete.jar
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
 # ( ) # Hide shell job control messages.

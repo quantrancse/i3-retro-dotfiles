@@ -726,3 +726,1147 @@ Oct 25 16:03 : client: [108] opened from [::1]:43570
 Oct 25 16:03 : client: [108] closed
 Oct 25 16:03 : client: [105] closed
 Oct 25 16:05 : player: played "Time to love - OCTOBER.flac"
+Oct 25 16:09 : player: played "Missing You - Kana Nishino.mp3"
+Oct 25 16:13 : client: [109] opened from [::1]:43686
+Oct 25 16:13 : client: [109] closed
+Oct 25 16:13 : client: [110] opened from [::1]:43688
+Oct 25 16:13 : client: [110] closed
+Oct 25 16:13 : client: [111] opened from [::1]:43690
+Oct 25 16:13 : client: [111] closed
+Oct 25 16:13 : client: [112] opened from [::1]:43692
+Oct 25 16:13 : client: [112] closed
+Oct 25 16:13 : client: [113] opened from [::1]:43694
+Oct 25 16:13 : client: [113] closed
+Oct 25 16:13 : client: [114] opened from [::1]:43696
+Oct 25 16:13 : client: [114] closed
+Oct 25 16:13 : client: [115] opened from [::1]:43700
+Oct 25 16:13 : client: [115] closed
+Oct 25 16:13 : client: [116] opened from [::1]:43702
+Oct 25 16:13 : client: [116] closed
+Oct 25 16:13 : client: [117] opened from [::1]:43706
+Oct 25 16:13 : player: played "With you - OCTOBER.flac"
+Oct 25 16:13 : client: [117] closed
+Oct 25 16:15 : client: [118] opened from [::1]:43716
+Oct 25 16:16 : client: [118] closed
+Oct 25 16:16 : client: [119] opened from [::1]:43722
+Oct 25 16:18 : exception: Failed to open /home/quantrancse/.mpd/playlists: No such file or directory
+Oct 25 16:18 : player: played "With you - OCTOBER.flac"
+Oct 25 16:18 : player: played "With you - OCTOBER.flac"
+Oct 25 16:19 : client: [120] opened from [::1]:43784
+Oct 25 16:19 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:19 : client: [120] closed
+Oct 25 16:19 : client: [119] closed
+Oct 25 16:19 : client: [121] opened from [::1]:43786
+Oct 25 16:19 : client: [121] closed
+Oct 25 16:19 : client: [122] opened from [::1]:43788
+Oct 25 16:19 : client: [122] closed
+Oct 25 16:19 : client: [123] opened from [::1]:43790
+Oct 25 16:19 : client: [123] closed
+Oct 25 16:19 : client: [124] opened from [::1]:43794
+Oct 25 16:19 : client: [124] closed
+Oct 25 16:19 : client: [125] opened from [::1]:43796
+Oct 25 16:19 : client: [125] closed
+Oct 25 16:19 : client: [126] opened from [::1]:43798
+Oct 25 16:19 : client: [126] closed
+Oct 25 16:19 : client: [127] opened from [::1]:43800
+Oct 25 16:19 : client: [127] closed
+Oct 25 16:19 : client: [128] opened from [::1]:43802
+Oct 25 16:19 : client: [128] closed
+Oct 25 16:19 : client: [129] opened from [::1]:43804
+Oct 25 16:19 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:19 : client: [129] closed
+Oct 25 16:19 : client: [130] opened from [::1]:43806
+Oct 25 16:19 : client: [130] closed
+Oct 25 16:19 : client: [131] opened from [::1]:43808
+Oct 25 16:19 : client: [131] closed
+Oct 25 16:19 : client: [132] opened from [::1]:43810
+Oct 25 16:19 : client: [132] closed
+Oct 25 16:21 : client: [133] opened from [::1]:43816
+Oct 25 16:21 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:21 : client: [133] closed
+Oct 25 16:22 : client: [134] opened from [::1]:43818
+Oct 25 16:22 : client: [134] closed
+Oct 25 16:22 : client: [135] opened from [::1]:43820
+Oct 25 16:22 : client: [135] closed
+Oct 25 16:22 : client: [136] opened from [::1]:43822
+Oct 25 16:22 : client: [136] closed
+Oct 25 16:22 : client: [137] opened from [::1]:43824
+Oct 25 16:22 : client: [137] closed
+Oct 25 16:22 : client: [138] opened from [::1]:43826
+Oct 25 16:22 : client: [138] closed
+Oct 25 16:23 : client: [139] opened from [::1]:43828
+Oct 25 16:24 : client: [140] opened from [::1]:43838
+Oct 25 16:24 : client: [140] closed
+Oct 25 16:24 : client: [141] opened from [::1]:43840
+Oct 25 16:24 : client: [141] closed
+Oct 25 16:24 : client: [142] opened from [::1]:43844
+Oct 25 16:24 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:24 : client: [142] closed
+Oct 25 16:25 : client: [139] closed
+Oct 25 16:25 : client: [143] opened from [::1]:43850
+Oct 25 16:25 : client: [143] closed
+Oct 25 16:25 : client: [144] opened from [::1]:43852
+Oct 25 16:25 : client: [144] closed
+Oct 25 16:26 : client: [145] opened from [::1]:43854
+Oct 25 16:26 : client: [145] closed
+Oct 25 16:26 : client: [146] opened from [::1]:43856
+Oct 25 16:26 : client: [146] closed
+Oct 25 16:26 : client: [147] opened from [::1]:43858
+Oct 25 16:26 : client: [147] closed
+Oct 25 16:26 : client: [148] opened from [::1]:43860
+Oct 25 16:28 : client: [149] opened from [::1]:43946
+Oct 25 16:28 : client: [149] closed
+Oct 25 16:28 : client: [150] opened from [::1]:43948
+Oct 25 16:28 : client: [150] closed
+Oct 25 16:28 : client: [151] opened from [::1]:43950
+Oct 25 16:28 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:28 : client: [151] closed
+Oct 25 16:30 : client: [152] opened from [::1]:43960
+Oct 25 16:30 : client: [152] closed
+Oct 25 16:30 : client: [148] closed
+Oct 25 16:30 : client: [153] opened from [::1]:43964
+Oct 25 16:30 : client: [153] closed
+Oct 25 16:30 : client: [154] opened from [::1]:43966
+Oct 25 16:30 : client: [154] closed
+Oct 25 16:30 : client: [155] opened from [::1]:43968
+Oct 25 16:30 : client: [155] closed
+Oct 25 16:30 : client: [156] opened from [::1]:43970
+Oct 25 16:30 : client: [156] closed
+Oct 25 16:30 : client: [157] opened from [::1]:43972
+Oct 25 16:30 : client: [157] closed
+Oct 25 16:30 : client: [158] opened from [::1]:43974
+Oct 25 16:30 : client: [158] closed
+Oct 25 16:31 : client: [159] opened from [::1]:43978
+Oct 25 16:33 : client: [160] opened from [::1]:44050
+Oct 25 16:33 : client: [160] closed
+Oct 25 16:33 : client: [161] opened from [::1]:44052
+Oct 25 16:33 : client: [161] closed
+Oct 25 16:33 : client: [162] opened from [::1]:44054
+Oct 25 16:33 : player: played "Time to love - OCTOBER.flac"
+Oct 25 16:33 : client: [162] closed
+Oct 25 16:34 : client: [159] closed
+Oct 25 16:38 : client: [163] opened from [::1]:44244
+Oct 25 16:38 : client: [163] closed
+Oct 25 16:38 : client: [164] opened from [::1]:44246
+Oct 25 16:38 : client: [164] closed
+Oct 25 16:38 : client: [165] opened from [::1]:44248
+Oct 25 16:38 : client: [165] closed
+Oct 25 16:38 : client: [166] opened from [::1]:44250
+Oct 25 16:38 : client: [166] closed
+Oct 25 16:38 : client: [167] opened from [::1]:44252
+Oct 25 16:38 : client: [167] closed
+Oct 25 16:38 : client: [168] opened from [::1]:44254
+Oct 25 16:38 : client: [168] closed
+Oct 25 16:38 : client: [169] opened from [::1]:44256
+Oct 25 16:38 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:38 : client: [169] closed
+Oct 25 16:39 : client: [170] opened from [::1]:44260
+Oct 25 16:39 : client: [170] closed
+Oct 25 16:39 : client: [171] opened from [::1]:44262
+Oct 25 16:39 : client: [171] closed
+Oct 25 16:39 : client: [172] opened from [::1]:44264
+Oct 25 16:39 : client: [172] closed
+Oct 25 16:39 : client: [173] opened from [::1]:44266
+Oct 25 16:39 : client: [173] closed
+Oct 25 16:39 : client: [174] opened from [::1]:44268
+Oct 25 16:39 : client: [174] closed
+Oct 25 16:39 : client: [175] opened from [::1]:44270
+Oct 25 16:39 : client: [175] closed
+Oct 25 16:39 : client: [176] opened from [::1]:44274
+Oct 25 16:41 : client: [177] opened from [::1]:44374
+Oct 25 16:41 : client: [177] closed
+Oct 25 16:41 : client: [178] opened from [::1]:44376
+Oct 25 16:41 : client: [178] closed
+Oct 25 16:42 : client: [179] opened from [::1]:44378
+Oct 25 16:42 : player: played "Time to love - OCTOBER.flac"
+Oct 25 16:42 : client: [179] closed
+Oct 25 16:44 : client: [176] closed
+Oct 25 16:44 : client: [180] opened from [::1]:44426
+Oct 25 16:44 : client: [180] closed
+Oct 25 16:44 : client: [181] opened from [::1]:44428
+Oct 25 16:44 : client: [181] closed
+Oct 25 16:44 : client: [182] opened from [::1]:44430
+Oct 25 16:44 : client: [182] closed
+Oct 25 16:44 : client: [183] opened from [::1]:44432
+Oct 25 16:44 : client: [183] closed
+Oct 25 16:44 : client: [184] opened from [::1]:44434
+Oct 25 16:44 : client: [184] closed
+Oct 25 16:44 : client: [185] opened from [::1]:44436
+Oct 25 16:44 : client: [185] closed
+Oct 25 16:44 : client: [186] opened from [::1]:44438
+Oct 25 16:44 : client: [186] closed
+Oct 25 16:44 : client: [187] opened from [::1]:44440
+Oct 25 16:44 : client: [187] closed
+Oct 25 16:44 : client: [188] opened from [::1]:44442
+Oct 25 16:44 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:44 : client: [188] closed
+Oct 25 16:45 : client: [189] opened from [::1]:44444
+Oct 25 16:45 : client: [189] closed
+Oct 25 16:45 : client: [190] opened from [::1]:44446
+Oct 25 16:45 : client: [190] closed
+Oct 25 16:45 : client: [191] opened from [::1]:44448
+Oct 25 16:45 : client: [191] closed
+Oct 25 16:45 : client: [192] opened from [::1]:44450
+Oct 25 16:45 : client: [192] closed
+Oct 25 16:45 : client: [193] opened from [::1]:44452
+Oct 25 16:45 : client: [193] closed
+Oct 25 16:45 : client: [194] opened from [::1]:44454
+Oct 25 16:45 : client: [194] closed
+Oct 25 16:45 : client: [195] opened from [::1]:44458
+Oct 25 16:47 : client: [196] opened from [::1]:44538
+Oct 25 16:47 : client: [196] closed
+Oct 25 16:47 : client: [197] opened from [::1]:44540
+Oct 25 16:47 : client: [197] closed
+Oct 25 16:47 : client: [198] opened from [::1]:44542
+Oct 25 16:47 : player: played "Time to love - OCTOBER.flac"
+Oct 25 16:47 : client: [198] closed
+Oct 25 16:49 : client: [195] closed
+Oct 25 16:49 : client: [199] opened from [::1]:44572
+Oct 25 16:49 : client: [199] closed
+Oct 25 16:49 : client: [200] opened from [::1]:44574
+Oct 25 16:49 : client: [200] closed
+Oct 25 16:49 : client: [201] opened from [::1]:44576
+Oct 25 16:49 : client: [201] closed
+Oct 25 16:49 : client: [202] opened from [::1]:44578
+Oct 25 16:49 : client: [202] closed
+Oct 25 16:49 : client: [203] opened from [::1]:44580
+Oct 25 16:49 : client: [203] closed
+Oct 25 16:49 : client: [204] opened from [::1]:44582
+Oct 25 16:49 : client: [204] closed
+Oct 25 16:49 : client: [205] opened from [::1]:44584
+Oct 25 16:49 : client: [205] closed
+Oct 25 16:49 : client: [206] opened from [::1]:44586
+Oct 25 16:49 : client: [206] closed
+Oct 25 16:49 : client: [207] opened from [::1]:44588
+Oct 25 16:49 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:49 : client: [207] closed
+Oct 25 16:49 : client: [208] opened from [::1]:44592
+Oct 25 16:49 : client: [208] closed
+Oct 25 16:49 : client: [209] opened from [::1]:44594
+Oct 25 16:49 : client: [209] closed
+Oct 25 16:49 : client: [210] opened from [::1]:44596
+Oct 25 16:49 : client: [210] closed
+Oct 25 16:49 : client: [211] opened from [::1]:44598
+Oct 25 16:49 : client: [211] closed
+Oct 25 16:49 : client: [212] opened from [::1]:44600
+Oct 25 16:49 : client: [212] closed
+Oct 25 16:49 : client: [213] opened from [::1]:44602
+Oct 25 16:49 : client: [213] closed
+Oct 25 16:50 : client: [214] opened from [::1]:44604
+Oct 25 16:51 : client: [214] closed
+Oct 25 16:51 : client: [215] opened from [::1]:44610
+Oct 25 16:51 : client: [215] closed
+Oct 25 16:51 : client: [216] opened from [::1]:44612
+Oct 25 16:51 : client: [216] closed
+Oct 25 16:51 : client: [217] opened from [::1]:44614
+Oct 25 16:51 : client: [217] closed
+Oct 25 16:51 : client: [218] opened from [::1]:44616
+Oct 25 16:51 : client: [218] closed
+Oct 25 16:51 : client: [219] opened from [::1]:44618
+Oct 25 16:51 : client: [219] closed
+Oct 25 16:51 : client: [220] opened from [::1]:44620
+Oct 25 16:51 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:51 : client: [220] closed
+Oct 25 16:51 : client: [221] opened from [::1]:44622
+Oct 25 16:51 : client: [221] closed
+Oct 25 16:51 : client: [222] opened from [::1]:44624
+Oct 25 16:51 : client: [222] closed
+Oct 25 16:51 : client: [223] opened from [::1]:44626
+Oct 25 16:51 : client: [223] closed
+Oct 25 16:51 : client: [224] opened from [::1]:44628
+Oct 25 16:51 : client: [224] closed
+Oct 25 16:51 : client: [225] opened from [::1]:44630
+Oct 25 16:51 : client: [225] closed
+Oct 25 16:51 : client: [226] opened from [::1]:44632
+Oct 25 16:51 : client: [226] closed
+Oct 25 16:51 : client: [227] opened from [::1]:44634
+Oct 25 16:54 : client: [228] opened from [::1]:44688
+Oct 25 16:54 : client: [228] closed
+Oct 25 16:54 : client: [229] opened from [::1]:44690
+Oct 25 16:54 : client: [229] closed
+Oct 25 16:54 : client: [230] opened from [::1]:44692
+Oct 25 16:54 : client: [230] closed
+Oct 25 16:54 : client: [231] opened from [::1]:44694
+Oct 25 16:54 : client: [231] closed
+Oct 25 16:54 : client: [232] opened from [::1]:44696
+Oct 25 16:54 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:54 : client: [232] closed
+Oct 25 16:55 : client: [227] closed
+Oct 25 16:56 : client: [233] opened from [::1]:44750
+Oct 25 16:56 : client: [233] closed
+Oct 25 16:56 : client: [234] opened from [::1]:44752
+Oct 25 16:56 : client: [234] closed
+Oct 25 16:56 : client: [235] opened from [::1]:44754
+Oct 25 16:56 : client: [235] closed
+Oct 25 16:56 : client: [236] opened from [::1]:44756
+Oct 25 16:56 : client: [236] closed
+Oct 25 16:56 : client: [237] opened from [::1]:44758
+Oct 25 16:56 : client: [237] closed
+Oct 25 16:56 : client: [238] opened from [::1]:44760
+Oct 25 16:56 : client: [238] closed
+Oct 25 16:56 : client: [239] opened from [::1]:44762
+Oct 25 16:57 : client: [240] opened from [::1]:44764
+Oct 25 16:57 : client: [240] closed
+Oct 25 16:57 : client: [241] opened from [::1]:44766
+Oct 25 16:57 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 16:57 : client: [241] closed
+Oct 25 16:58 : client: [239] closed
+Oct 25 16:58 : client: [242] opened from [::1]:44768
+Oct 25 16:58 : client: [242] closed
+Oct 25 16:58 : client: [243] opened from [::1]:44770
+Oct 25 16:58 : client: [243] closed
+Oct 25 16:58 : client: [244] opened from [::1]:44772
+Oct 25 16:58 : client: [244] closed
+Oct 25 16:58 : client: [245] opened from [::1]:44774
+Oct 25 16:58 : client: [245] closed
+Oct 25 16:58 : client: [246] opened from [::1]:44776
+Oct 25 16:58 : client: [246] closed
+Oct 25 16:58 : client: [247] opened from [::1]:44778
+Oct 25 16:58 : client: [247] closed
+Oct 25 16:58 : client: [248] opened from [::1]:44782
+Oct 25 17:01 : client: [249] opened from [::1]:44862
+Oct 25 17:01 : client: [249] closed
+Oct 25 17:01 : client: [250] opened from [::1]:44864
+Oct 25 17:01 : client: [250] closed
+Oct 25 17:01 : client: [251] opened from [::1]:44866
+Oct 25 17:01 : player: played "Time to love - OCTOBER.flac"
+Oct 25 17:01 : client: [251] closed
+Oct 25 17:04 : client: [248] closed
+Oct 25 17:05 : client: [252] opened from [::1]:44952
+Oct 25 17:05 : client: [252] closed
+Oct 25 17:05 : client: [253] opened from [::1]:44954
+Oct 25 17:05 : client: [253] closed
+Oct 25 17:05 : client: [254] opened from [::1]:44956
+Oct 25 17:05 : client: [254] closed
+Oct 25 17:05 : client: [255] opened from [::1]:44960
+Oct 25 17:05 : client: [255] closed
+Oct 25 17:05 : client: [256] opened from [::1]:44962
+Oct 25 17:05 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 17:05 : client: [256] closed
+Oct 25 17:08 : client: [257] opened from [::1]:44966
+Oct 25 17:08 : client: [257] closed
+Oct 25 17:08 : client: [258] opened from [::1]:44968
+Oct 25 17:08 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 17:08 : client: [258] closed
+Oct 25 17:08 : client: [259] opened from [::1]:44970
+Oct 25 17:08 : client: [259] closed
+Oct 25 17:08 : client: [260] opened from [::1]:44972
+Oct 25 17:08 : client: [260] closed
+Oct 25 17:08 : client: [261] opened from [::1]:44974
+Oct 25 17:08 : client: [261] closed
+Oct 25 17:08 : client: [262] opened from [::1]:44976
+Oct 25 17:08 : client: [262] closed
+Oct 25 17:08 : client: [263] opened from [::1]:44978
+Oct 25 17:08 : client: [263] closed
+Oct 25 17:08 : client: [264] opened from [::1]:44980
+Oct 25 17:08 : client: [264] closed
+Oct 25 17:09 : client: [265] opened from [::1]:44984
+Oct 25 17:10 : client: [266] opened from [::1]:45000
+Oct 25 17:10 : client: [266] closed
+Oct 25 17:10 : client: [267] opened from [::1]:45002
+Oct 25 17:10 : client: [267] closed
+Oct 25 17:10 : client: [268] opened from [::1]:45004
+Oct 25 17:10 : client: [268] closed
+Oct 25 17:10 : client: [269] opened from [::1]:45006
+Oct 25 17:10 : client: [269] closed
+Oct 25 17:10 : client: [270] opened from [::1]:45008
+Oct 25 17:10 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 25 17:10 : client: [270] closed
+Oct 25 17:12 : client: [265] closed
+Oct 25 17:13 : client: [271] opened from [::1]:45012
+Oct 25 17:13 : client: [271] closed
+Oct 25 17:13 : client: [272] opened from [::1]:45014
+Oct 25 17:13 : client: [272] closed
+Oct 25 17:13 : client: [273] opened from [::1]:45016
+Oct 25 17:13 : client: [273] closed
+Oct 25 17:13 : client: [274] opened from [::1]:45018
+Oct 25 17:13 : client: [274] closed
+Oct 25 17:13 : client: [275] opened from [::1]:45020
+Oct 25 17:13 : client: [275] closed
+Oct 25 17:13 : client: [276] opened from [::1]:45022
+Oct 25 17:13 : client: [276] closed
+Oct 25 17:13 : client: [277] opened from [::1]:45024
+Oct 25 17:15 : client: [278] opened from [::1]:45104
+Oct 25 17:15 : client: [278] closed
+Oct 25 17:15 : client: [279] opened from [::1]:45106
+Oct 25 17:15 : client: [279] closed
+Oct 25 17:15 : client: [280] opened from [::1]:45108
+Oct 25 17:15 : player: played "Time to love - OCTOBER.flac"
+Oct 25 17:15 : client: [280] closed
+Oct 26 08:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 08:18 : client: [0] opened from [::1]:56852
+Oct 26 08:18 : avahi: Service 'Music Player @ x250' successfully established.
+Oct 26 08:19 : client: [0] closed
+Oct 26 08:19 : client: [1] opened from [::1]:56862
+Oct 26 20:46 : client: [2] opened from [::1]:34356
+Oct 26 20:46 : client: [2] closed
+Oct 26 20:46 : client: [3] opened from [::1]:34358
+Oct 26 20:46 : client: [3] closed
+Oct 26 20:46 : client: [4] opened from [::1]:34360
+Oct 26 20:46 : client: [4] closed
+Oct 26 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 20:47 : client: [5] opened from [::1]:34364
+Oct 26 20:47 : client: [5] closed
+Oct 26 20:47 : client: [6] opened from [::1]:34366
+Oct 26 20:47 : client: [6] closed
+Oct 26 20:50 : player: played "Time to love - OCTOBER.flac"
+Oct 26 20:54 : player: played "In Love - July.flac"
+Oct 26 20:57 : player: played "Tears - OCTOBER.flac"
+Oct 26 21:01 : player: played "With you - OCTOBER.flac"
+Oct 26 21:05 : player: played "Missing You - Kana Nishino.mp3"
+Oct 26 21:11 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Oct 27 00:43 : client: [7] opened from [::1]:35504
+Oct 27 00:43 : client: [7] closed
+Oct 27 00:43 : client: [8] opened from [::1]:35506
+Oct 27 00:43 : client: [8] closed
+Oct 27 00:43 : client: [9] opened from [::1]:35508
+Oct 27 00:43 : client: [9] closed
+Oct 27 00:43 : client: [10] opened from [::1]:35512
+Oct 27 00:43 : client: [10] closed
+Oct 27 00:43 : client: [11] opened from [::1]:35514
+Oct 27 00:43 : client: [11] closed
+Oct 27 00:43 : client: [12] opened from [::1]:35516
+Oct 27 00:43 : player: played "Cherry blossom - OCTOBER.flac"
+Oct 27 00:43 : client: [12] closed
+Oct 27 00:43 : client: [13] opened from [::1]:35518
+Oct 27 00:43 : client: [13] closed
+Oct 27 00:43 : client: [14] opened from [::1]:35520
+Oct 27 00:43 : client: [14] closed
+Oct 27 00:43 : client: [15] opened from [::1]:35522
+Oct 27 00:43 : client: [15] closed
+Oct 27 00:43 : client: [16] opened from [::1]:35524
+Oct 27 00:43 : client: [16] closed
+Oct 27 00:43 : client: [17] opened from [::1]:35526
+Oct 27 00:43 : client: [17] closed
+Oct 27 00:43 : client: [18] opened from [::1]:35528
+Oct 27 00:43 : client: [18] closed
+Oct 27 00:47 : client: [19] opened from [::1]:35612
+Oct 27 00:47 : player: played "Time to love - OCTOBER.flac"
+Oct 27 00:47 : client: [19] closed
+Oct 28 17:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 28 17:26 : avahi: Service 'Music Player @ x250' successfully established.
+Oct 28 17:26 : client: [0] opened from [::1]:60510
+Oct 28 17:27 : client: [1] opened from [::1]:60512
+Oct 28 17:27 : client: [1] closed
+Oct 28 17:27 : client: [2] opened from [::1]:60514
+Oct 28 17:27 : client: [2] closed
+Nov 02 07:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 07:32 : client: [0] opened from [::1]:50740
+Nov 02 07:32 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 02 00:33 : client: [0] closed
+Nov 02 00:34 : client: [1] opened from [::1]:50772
+Nov 02 00:34 : client: [1] closed
+Nov 02 00:34 : client: [2] opened from [::1]:50774
+Nov 02 00:34 : client: [2] closed
+Nov 02 00:34 : client: [3] opened from [::1]:50776
+Nov 02 00:34 : client: [3] closed
+Nov 02 00:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 00:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 00:34 : client: [4] opened from [::1]:50778
+Nov 02 00:34 : client: [4] closed
+Nov 02 00:34 : client: [5] opened from [::1]:50780
+Nov 02 00:34 : client: [5] closed
+Nov 02 00:34 : client: [6] opened from [::1]:50782
+Nov 02 00:34 : client: [6] closed
+Nov 02 00:35 : client: [7] opened from [::1]:50784
+Nov 02 00:35 : client: [8] opened from [::1]:50786
+Nov 02 00:35 : client: [8] closed
+Nov 02 00:35 : client: [9] opened from [::1]:50788
+Nov 02 00:35 : client: [9] closed
+Nov 02 00:39 : player: played "In Love - July.flac"
+Nov 02 00:39 : client: [10] opened from [::1]:50892
+Nov 02 00:39 : client: [10] closed
+Nov 02 00:39 : client: [11] opened from [::1]:50896
+Nov 02 00:39 : client: [11] closed
+Nov 02 00:44 : player: played "Missing You - Kana Nishino.mp3"
+Nov 02 00:49 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 03 16:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 16:19 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 03 16:19 : client: [0] opened from [::1]:50928
+Nov 03 09:20 : client: [0] closed
+Nov 03 10:08 : client: [1] opened from [::1]:51876
+Nov 03 10:08 : client: [1] closed
+Nov 03 10:08 : client: [2] opened from [::1]:51878
+Nov 03 10:08 : client: [2] closed
+Nov 03 10:08 : client: [3] opened from [::1]:51880
+Nov 03 10:08 : client: [3] closed
+Nov 03 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 10:08 : client: [4] opened from [::1]:51882
+Nov 03 10:08 : client: [4] closed
+Nov 03 10:08 : client: [5] opened from [::1]:51884
+Nov 03 10:08 : client: [5] closed
+Nov 03 10:08 : client: [6] opened from [::1]:51886
+Nov 03 10:08 : client: [6] closed
+Nov 03 10:12 : player: played "Time to love - OCTOBER.flac"
+Nov 03 10:12 : client: [7] opened from [::1]:52030
+Nov 03 10:12 : client: [7] closed
+Nov 03 10:12 : client: [8] opened from [::1]:52032
+Nov 03 10:12 : client: [8] closed
+Nov 03 10:12 : client: [9] opened from [::1]:52034
+Nov 03 10:12 : player: played "In Love - July.flac"
+Nov 03 10:12 : client: [9] closed
+Nov 03 10:23 : client: [10] opened from [::1]:52480
+Nov 03 10:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 10:46 : client: [0] opened from [::1]:56706
+Nov 03 10:46 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 03 10:46 : client: [0] closed
+Nov 03 10:46 : client: [1] opened from [::1]:56708
+Nov 03 16:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 16:20 : client: [0] opened from [::1]:43686
+Nov 03 16:20 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 03 23:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:24 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 03 23:24 : client: [0] opened from [::1]:44242
+Nov 04 08:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 08:23 : client: [0] opened from [::1]:47414
+Nov 04 08:23 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 04 12:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 12:59 : client: [0] opened from [::1]:46056
+Nov 04 12:59 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 04 13:29 : client: [0] closed
+Nov 04 13:29 : client: [1] opened from [::1]:46610
+Nov 04 21:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 21:17 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 04 21:17 : client: [0] opened from [::1]:39672
+Nov 04 21:25 : client: [0] closed
+Nov 04 21:25 : client: [1] opened from [::1]:39830
+Nov 04 21:25 : client: [1] closed
+Nov 04 21:25 : client: [2] opened from [::1]:39834
+Nov 04 21:32 : client: [2] closed
+Nov 04 21:32 : client: [3] opened from [::1]:39846
+Nov 04 21:34 : client: [3] closed
+Nov 04 21:34 : client: [4] opened from [::1]:39862
+Nov 04 21:34 : client: [4] closed
+Nov 04 21:34 : client: [5] opened from [::1]:39864
+Nov 04 21:41 : client: [5] closed
+Nov 04 21:41 : client: [6] opened from [::1]:39952
+Nov 04 21:42 : client: [6] closed
+Nov 04 21:42 : client: [7] opened from [::1]:39956
+Nov 04 21:42 : client: [7] closed
+Nov 04 21:42 : client: [8] opened from [::1]:39970
+Nov 04 21:44 : client: [8] closed
+Nov 04 21:44 : client: [9] opened from [::1]:39982
+Nov 04 21:54 : client: [9] closed
+Nov 04 21:54 : client: [10] opened from [::1]:40106
+Nov 04 22:05 : client: [11] opened from [::1]:40234
+Nov 04 22:05 : client: [11] closed
+Nov 04 22:05 : client: [12] opened from [::1]:40236
+Nov 04 22:05 : client: [12] closed
+Nov 04 22:05 : client: [13] opened from [::1]:40238
+Nov 04 22:05 : client: [13] closed
+Nov 04 22:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 22:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 22:05 : client: [14] opened from [::1]:40240
+Nov 04 22:05 : client: [14] closed
+Nov 04 22:05 : client: [15] opened from [::1]:40242
+Nov 04 22:05 : client: [15] closed
+Nov 04 22:09 : player: played "In Love - July.flac"
+Nov 04 22:09 : client: [16] opened from [::1]:40350
+Nov 04 22:09 : client: [16] closed
+Nov 04 22:09 : client: [17] opened from [::1]:40352
+Nov 04 22:09 : client: [17] closed
+Nov 04 22:13 : player: played "Missing You - Kana Nishino.mp3"
+Nov 04 22:19 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 05 09:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 09:10 : client: [0] opened from [::1]:45658
+Nov 05 09:10 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 05 09:19 : client: [1] opened from [::1]:45788
+Nov 05 09:19 : client: [1] closed
+Nov 05 09:19 : client: [2] opened from [::1]:45790
+Nov 05 09:19 : client: [2] closed
+Nov 05 09:19 : client: [3] opened from [::1]:45792
+Nov 05 09:19 : client: [3] closed
+Nov 05 09:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 09:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 09:22 : player: played "Cherry blossom - OCTOBER.flac"
+Nov 05 09:26 : player: played "Time to love - OCTOBER.flac"
+Nov 05 09:30 : player: played "In Love - July.flac"
+Nov 05 09:33 : player: played "Tears - OCTOBER.flac"
+Nov 05 09:37 : player: played "With you - OCTOBER.flac"
+Nov 05 09:41 : player: played "Missing You - Kana Nishino.mp3"
+Nov 05 09:47 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 05 13:00 : client: [4] opened from [::1]:46476
+Nov 05 13:00 : client: [4] closed
+Nov 06 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 15:47 : client: [0] opened from [::1]:33696
+Nov 06 15:47 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 06 08:48 : client: [0] closed
+Nov 06 12:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 12:14 : client: [0] opened from [::1]:37180
+Nov 06 12:14 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 06 12:57 : client: [0] closed
+Nov 06 12:57 : client: [1] opened from [::1]:37416
+Nov 06 12:57 : client: [1] closed
+Nov 06 12:57 : client: [2] opened from [::1]:37422
+Nov 06 12:59 : client: [2] closed
+Nov 06 12:59 : client: [3] opened from [::1]:37446
+Nov 06 12:59 : client: [3] closed
+Nov 06 12:59 : client: [4] opened from [::1]:37448
+Nov 06 12:59 : client: [4] closed
+Nov 06 12:59 : client: [5] opened from [::1]:37450
+Nov 06 13:00 : client: [5] closed
+Nov 06 13:00 : client: [6] opened from [::1]:37454
+Nov 06 15:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 15:11 : client: [0] opened from [::1]:43278
+Nov 06 15:11 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 06 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 18:39 : client: [0] opened from [::1]:50040
+Nov 06 18:39 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 07 15:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 15:46 : client: [0] opened from [::1]:40256
+Nov 07 15:46 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 07 08:47 : client: [0] closed
+Nov 07 22:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 22:35 : client: [0] opened from [::1]:38948
+Nov 07 22:35 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 07 15:36 : client: [0] closed
+Nov 07 15:39 : client: [1] opened from [::1]:39072
+Nov 08 15:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 15:31 : client: [0] opened from [::1]:46318
+Nov 08 15:31 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 08 08:32 : client: [0] closed
+Nov 08 10:34 : client: [1] opened from [::1]:47546
+Nov 08 10:34 : exception: Not playing
+Nov 08 10:34 : client: [1] closed
+Nov 08 12:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 12:48 : client: [0] opened from [::1]:51968
+Nov 08 12:48 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 08 12:50 : client: [1] opened from [::1]:52188
+Nov 08 12:50 : client: [1] closed
+Nov 08 12:50 : client: [2] opened from [::1]:52190
+Nov 08 12:50 : client: [2] closed
+Nov 08 12:50 : client: [3] opened from [::1]:52192
+Nov 08 12:50 : client: [3] closed
+Nov 08 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 12:50 : client: [4] opened from [::1]:52194
+Nov 08 12:50 : client: [4] closed
+Nov 08 12:54 : player: played "Time to love - OCTOBER.flac"
+Nov 08 12:58 : player: played "In Love - July.flac"
+Nov 08 13:01 : player: played "Tears - OCTOBER.flac"
+Nov 08 13:05 : player: played "With you - OCTOBER.flac"
+Nov 08 13:09 : player: played "Missing You - Kana Nishino.mp3"
+Nov 08 13:15 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 08 13:20 : client: [5] opened from [::1]:52968
+Nov 08 13:20 : client: [5] closed
+Nov 08 13:20 : client: [6] opened from [::1]:52970
+Nov 08 13:20 : client: [6] closed
+Nov 08 13:20 : client: [7] opened from [::1]:52972
+Nov 08 13:20 : client: [7] closed
+Nov 08 13:20 : client: [8] opened from [::1]:52974
+Nov 08 13:20 : client: [8] closed
+Nov 08 13:20 : client: [9] opened from [::1]:52976
+Nov 08 13:20 : client: [9] closed
+Nov 08 13:20 : client: [10] opened from [::1]:52978
+Nov 08 13:20 : client: [10] closed
+Nov 08 13:20 : client: [11] opened from [::1]:52980
+Nov 08 13:20 : client: [11] closed
+Nov 08 13:20 : client: [12] opened from [::1]:52982
+Nov 08 13:20 : client: [12] closed
+Nov 08 13:20 : client: [13] opened from [::1]:52984
+Nov 08 13:20 : client: [13] closed
+Nov 08 13:20 : client: [14] opened from [::1]:52986
+Nov 08 13:20 : client: [14] closed
+Nov 08 13:24 : player: played "In Love - July.flac"
+Nov 08 13:27 : player: played "Tears - OCTOBER.flac"
+Nov 08 13:31 : player: played "With you - OCTOBER.flac"
+Nov 08 13:35 : player: played "Missing You - Kana Nishino.mp3"
+Nov 08 13:41 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 08 13:44 : player: played "Cherry blossom - OCTOBER.flac"
+Nov 08 13:48 : player: played "Time to love - OCTOBER.flac"
+Nov 08 13:52 : player: played "In Love - July.flac"
+Nov 08 13:55 : player: played "Tears - OCTOBER.flac"
+Nov 08 13:58 : player: played "With you - OCTOBER.flac"
+Nov 08 14:03 : player: played "Missing You - Kana Nishino.mp3"
+Nov 08 14:06 : client: [15] opened from [::1]:53820
+Nov 08 14:06 : client: [15] closed
+Nov 08 14:10 : player: played "Missing You - Kana Nishino.mp3"
+Nov 08 14:16 : player: played "Best Friend - Lefty Hand Cream.mp3"
+Nov 08 14:17 : client: [16] opened from [::1]:53974
+Nov 08 14:17 : player: played "Cherry blossom - OCTOBER.flac"
+Nov 08 14:17 : client: [16] closed
+Nov 08 15:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 15:27 : client: [0] opened from [::1]:59642
+Nov 08 15:27 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 08 20:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 20:09 : client: [0] opened from [::1]:56762
+Nov 08 20:09 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 08 20:09 : client: [0] closed
+Nov 08 20:09 : client: [1] opened from [::1]:56770
+Nov 09 16:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 16:03 : client: [0] opened from [::1]:60400
+Nov 09 16:03 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 10 08:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 08:54 : client: [0] opened from [::1]:54726
+Nov 10 08:54 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 11 02:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 02:16 : client: [0] opened from [::1]:43358
+Nov 11 02:16 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 10 19:17 : client: [0] closed
+Nov 10 19:17 : client: [1] opened from [::1]:43406
+Nov 11 08:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 08:06 : client: [0] opened from [::1]:44280
+Nov 11 08:06 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 11 12:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:50 : client: [0] opened from [::1]:50664
+Nov 11 12:50 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 11 17:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 17:47 : client: [0] opened from [::1]:42454
+Nov 11 17:47 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 12 16:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 16:13 : client: [0] opened from [::1]:40246
+Nov 12 16:13 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 12 09:14 : client: [0] closed
+Nov 12 15:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 15:25 : client: [0] opened from [::1]:48152
+Nov 12 15:25 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 13 09:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 09:32 : client: [0] opened from [::1]:47114
+Nov 13 09:32 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 13 12:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 12:13 : client: [0] opened from [::1]:38274
+Nov 13 12:13 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 13 12:16 : client: [0] closed
+Nov 13 12:16 : client: [1] opened from [::1]:38580
+Nov 13 15:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 15:25 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 13 15:25 : client: [0] opened from [::1]:56330
+Nov 13 19:02 : client: [0] closed
+Nov 13 19:02 : client: [1] opened from [::1]:57728
+Nov 13 19:02 : client: [2] opened from [::1]:57730
+Nov 13 19:02 : client: [2] closed
+Nov 13 19:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 19:03 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 13 19:03 : client: [0] opened from [::1]:55034
+Nov 14 09:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 09:00 : client: [0] opened from [::1]:39736
+Nov 14 09:00 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 15 18:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 18:28 : client: [0] opened from [::1]:47182
+Nov 15 18:28 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 15 19:27 : client: [1] opened from [::1]:48262
+Nov 15 19:27 : client: [1] closed
+Nov 15 19:27 : client: [2] opened from [::1]:48306
+Nov 15 19:27 : client: [2] closed
+Nov 15 19:55 : client: [0] closed
+Nov 15 19:55 : client: [3] opened from [::1]:48594
+Nov 15 12:56 : client: [3] closed
+Nov 15 12:56 : client: [4] opened from [::1]:48628
+Nov 16 03:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 03:45 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 16 03:45 : client: [0] opened from [::1]:56662
+Nov 18 15:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 15:06 : client: [0] opened from [::1]:43164
+Nov 18 15:06 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 18 19:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 19:51 : client: [0] opened from [::1]:45330
+Nov 18 19:51 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 18 19:51 : client: [0] closed
+Nov 18 19:51 : client: [1] opened from [::1]:45336
+Nov 18 13:00 : client: [1] closed
+Nov 18 13:00 : client: [2] opened from [::1]:45674
+Nov 20 13:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 13:59 : client: [0] opened from [::1]:37776
+Nov 20 13:59 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 20 14:26 : client: [0] closed
+Nov 20 14:26 : client: [1] opened from [::1]:38248
+Nov 20 14:50 : client: [2] opened from [::1]:38366
+Nov 20 14:50 : client: [2] closed
+Nov 22 19:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 19:59 : client: [0] opened from [::1]:51928
+Nov 22 19:59 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 22 22:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 22:16 : client: [0] opened from [::1]:55394
+Nov 22 22:16 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 22 15:53 : client: [0] closed
+Nov 22 15:53 : client: [1] opened from [::1]:56098
+Nov 23 17:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 17:15 : client: [0] opened from [::1]:39088
+Nov 23 17:15 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 25 00:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 00:03 : client: [0] opened from [::1]:50456
+Nov 25 00:03 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 24 17:18 : client: [0] closed
+Nov 24 17:50 : client: [1] opened from [::1]:52868
+Nov 27 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 21:59 : client: [0] opened from [::1]:51966
+Nov 27 21:59 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 27 15:01 : client: [0] closed
+Nov 27 15:36 : client: [1] opened from [::1]:52730
+Nov 27 15:36 : client: [1] closed
+Nov 27 15:36 : client: [2] opened from [::1]:52732
+Nov 29 20:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:02 : client: [0] opened from [::1]:60342
+Nov 29 20:02 : avahi: Service 'Music Player @ x250' successfully established.
+Nov 29 21:53 : client: [0] closed
+Dec 01 17:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 17:42 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 01 17:42 : client: [0] opened from [::1]:34120
+Dec 02 14:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 14:04 : client: [0] opened from [::1]:54684
+Dec 02 14:04 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 02 14:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 14:51 : client: [0] opened from [::1]:42380
+Dec 02 14:51 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 05 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 20:51 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 05 20:51 : client: [0] opened from [::1]:50518
+Dec 06 08:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 08:08 : client: [0] opened from [::1]:43068
+Dec 06 08:08 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 09:18 : client: [0] closed
+Dec 06 09:18 : client: [1] opened from [::1]:43520
+Dec 06 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 11:33 : client: [0] opened from [::1]:52210
+Dec 06 11:33 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 12:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 12:25 : client: [0] opened from [::1]:53252
+Dec 06 12:25 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 12:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 12:47 : client: [0] opened from [::1]:49960
+Dec 06 12:47 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 12:58 : client: [0] closed
+Dec 06 12:58 : client: [1] opened from [::1]:50206
+Dec 06 12:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 12:59 : client: [0] opened from [::1]:38440
+Dec 06 12:59 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 13:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 13:02 : client: [0] opened from [::1]:39442
+Dec 06 13:02 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 06 13:04 : client: [0] closed
+Dec 06 13:04 : client: [1] opened from [::1]:39504
+Dec 06 13:31 : client: [1] closed
+Dec 06 13:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 13:42 : client: [0] opened from [::1]:53284
+Dec 06 13:42 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 07 21:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 21:38 : client: [0] opened from [::1]:47022
+Dec 07 21:38 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 07 21:38 : client: [0] closed
+Dec 07 21:38 : client: [1] opened from [::1]:47026
+Dec 08 23:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 23:10 : client: [0] opened from [::1]:38724
+Dec 08 23:10 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 08 23:10 : client: [0] closed
+Dec 08 23:10 : client: [1] opened from [::1]:38734
+Dec 09 00:34 : client: [2] opened from [::1]:39568
+Dec 09 00:34 : client: [2] closed
+Dec 09 00:34 : client: [3] opened from [::1]:39570
+Dec 09 00:34 : client: [3] closed
+Dec 09 00:34 : client: [4] opened from [::1]:39572
+Dec 09 00:34 : client: [4] closed
+Dec 09 00:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 00:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 00:37 : player: played "Cherry blossom - OCTOBER.flac"
+Dec 09 00:41 : player: played "Time to love - OCTOBER.flac"
+Dec 09 00:44 : client: [5] opened from [::1]:39596
+Dec 09 00:44 : player: played "In Love - July.flac"
+Dec 09 00:44 : client: [5] closed
+Dec 09 08:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 08:31 : client: [0] opened from [::1]:34722
+Dec 09 08:31 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 09 12:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 12:59 : client: [0] opened from [::1]:41544
+Dec 09 12:59 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 09 15:18 : client: [1] opened from [::1]:42596
+Dec 09 15:18 : client: [1] closed
+Dec 12 20:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 20:04 : client: [0] opened from [::1]:35456
+Dec 12 20:04 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 12 21:11 : client: [0] closed
+Dec 12 21:11 : client: [1] opened from [::1]:36266
+Dec 13 18:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 18:37 : client: [0] opened from [::1]:44154
+Dec 13 18:37 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 13 11:39 : client: [0] closed
+Dec 13 12:04 : client: [1] opened from [::1]:44626
+Dec 13 12:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 12:07 : client: [0] opened from [::1]:40118
+Dec 13 12:07 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 13 12:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 12:39 : client: [0] opened from [::1]:43572
+Dec 13 12:39 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 14 16:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 16:37 : client: [0] opened from [::1]:33244
+Dec 14 16:37 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 14 09:39 : client: [0] closed
+Dec 14 16:38 : client: [1] opened from [::1]:38022
+Dec 15 08:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 08:38 : client: [0] opened from [::1]:50472
+Dec 15 08:38 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 16 07:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 07:40 : client: [0] opened from [::1]:59984
+Dec 16 07:40 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 16 12:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 12:58 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 16 12:58 : client: [0] opened from [::1]:59876
+Dec 16 17:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 17:50 : client: [0] opened from [::1]:39102
+Dec 16 17:50 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 17 08:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 17 08:31 : client: [0] opened from [::1]:45304
+Dec 17 08:31 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 18 08:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 18 08:44 : client: [0] opened from [::1]:41882
+Dec 18 08:44 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 18 08:45 : client: [0] closed
+Dec 18 08:45 : client: [1] opened from [::1]:41902
+Dec 28 15:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 28 15:22 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 28 15:22 : client: [0] opened from [::1]:33606
+Dec 28 08:25 : client: [0] closed
+Dec 28 10:31 : client: [1] opened from [::1]:34038
+Dec 29 03:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 29 03:21 : avahi: Service 'Music Player @ x250' successfully established.
+Dec 29 03:21 : client: [0] opened from [::1]:60282
+Jan 20 17:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 20 17:48 : avahi: Service 'Music Player @ x250' successfully established.
+Jan 20 17:48 : client: [0] opened from [::1]:58494
+Feb 14 03:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 03:47 : client: [0] opened from [::1]:37898
+Feb 14 03:47 : avahi: Service 'Music Player @ x250' successfully established.
+Feb 13 20:49 : client: [0] closed
+Mar 07 05:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 05:12 : avahi: Service 'Music Player @ x250' successfully established.
+Mar 07 05:12 : client: [0] opened from [::1]:52466
+Mar 06 22:13 : client: [0] closed
+Mar 30 23:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 23:31 : client: [0] opened from [::1]:58982
+Mar 30 23:31 : avahi: Service 'Music Player @ x250' successfully established.
+Mar 30 16:32 : client: [0] closed
+Mar 30 16:32 : client: [1] opened from [::1]:59120
+Apr 02 19:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 19:37 : client: [0] opened from [::1]:42356
+Apr 02 19:37 : avahi: Service 'Music Player @ x250' successfully established.
+Apr 02 19:51 : client: [0] closed
+Apr 02 19:51 : client: [1] opened from [::1]:42838
+Apr 02 19:53 : client: [1] closed
+Apr 02 19:53 : client: [2] opened from [::1]:42850
+Apr 02 19:53 : client: [2] closed
+Apr 02 19:53 : client: [3] opened from [::1]:42852
+Apr 02 19:54 : client: [3] closed
+Apr 02 19:54 : client: [4] opened from [::1]:42854
+Apr 02 19:54 : client: [4] closed
+Apr 02 19:54 : client: [5] opened from [::1]:42860
+Apr 02 19:55 : client: [5] closed
+Apr 02 19:55 : client: [6] opened from [::1]:42866
+Apr 02 19:55 : client: [6] closed
+Apr 02 19:55 : client: [7] opened from [::1]:42868
+Apr 02 19:55 : client: [7] closed
+Apr 02 19:55 : client: [8] opened from [::1]:42870
+Apr 02 19:57 : client: [8] closed
+Apr 02 19:57 : client: [9] opened from [::1]:42880
+Apr 02 19:58 : client: [9] closed
+Apr 02 19:58 : client: [10] opened from [::1]:42886
+Apr 02 19:59 : client: [10] closed
+Apr 02 19:59 : client: [11] opened from [::1]:42894
+Apr 02 20:00 : client: [11] closed
+Apr 02 20:00 : client: [12] opened from [::1]:42930
+Apr 02 20:01 : client: [12] closed
+Apr 02 20:01 : client: [13] opened from [::1]:42932
+Apr 02 20:02 : client: [13] closed
+Apr 02 20:02 : client: [14] opened from [::1]:42974
+Apr 02 20:03 : client: [14] closed
+Apr 02 20:03 : client: [15] opened from [::1]:42976
+Apr 02 20:04 : client: [15] closed
+Apr 02 20:04 : client: [16] opened from [::1]:42994
+Apr 02 20:09 : client: [16] closed
+Apr 02 20:09 : client: [17] opened from [::1]:43000
+Apr 02 20:13 : client: [17] closed
+Apr 02 20:13 : client: [18] opened from [::1]:43016
+Apr 02 20:13 : client: [18] closed
+Apr 02 20:13 : client: [19] opened from [::1]:43018
+Apr 02 20:21 : client: [19] closed
+Apr 02 20:21 : client: [20] opened from [::1]:43058
+Apr 02 20:24 : client: [20] closed
+Apr 02 20:24 : client: [21] opened from [::1]:43064
+Apr 02 20:33 : client: [21] closed
+Apr 02 20:33 : client: [22] opened from [::1]:43102
+Apr 02 20:33 : client: [22] closed
+Apr 02 20:33 : client: [23] opened from [::1]:43104
+Apr 02 20:34 : client: [23] closed
+Apr 02 20:34 : client: [24] opened from [::1]:43106
+Apr 02 20:38 : client: [24] closed
+Apr 02 20:38 : client: [25] opened from [::1]:43122
+Apr 02 20:38 : client: [25] closed
+Apr 02 20:38 : client: [26] opened from [::1]:43124
+Apr 02 20:39 : client: [26] closed
+Apr 02 20:39 : client: [27] opened from [::1]:43142
+Apr 02 20:55 : client: [27] closed
+Apr 02 20:55 : client: [28] opened from [::1]:43228
+Apr 02 21:01 : client: [28] closed
+Apr 02 21:01 : client: [29] opened from [::1]:43264
+Apr 02 21:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 21:04 : client: [0] opened from [::1]:56074
+Apr 02 21:04 : avahi: Service 'Music Player @ x250' successfully established.
+Apr 02 21:08 : client: [0] closed
+Apr 02 21:08 : client: [1] opened from [::1]:56278
+Apr 02 21:08 : client: [1] closed
+Apr 02 21:08 : client: [2] opened from [::1]:56280
+Apr 02 21:12 : client: [2] closed
+Apr 02 21:12 : client: [3] opened from [::1]:56448
+Apr 02 21:13 : client: [3] closed
+Apr 02 21:13 : client: [4] opened from [::1]:56450
+Apr 02 21:14 : client: [4] closed
+Apr 02 21:14 : client: [5] opened from [::1]:56462
+Apr 02 21:20 : client: [5] closed
+Apr 02 21:20 : client: [6] opened from [::1]:56680
+Apr 02 21:22 : client: [7] opened from [::1]:56714
+Apr 02 21:22 : client: [7] closed
+Apr 02 21:22 : client: [8] opened from [::1]:56716
+Apr 02 21:22 : client: [8] closed
+Apr 02 21:22 : client: [9] opened from [::1]:56718
+Apr 02 21:22 : client: [9] closed
+Apr 02 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 21:23 : client: [10] opened from [::1]:56722
+Apr 02 21:23 : client: [10] closed
+Apr 02 21:23 : client: [11] opened from [::1]:56728
+Apr 02 21:23 : client: [11] closed
+Apr 02 21:23 : client: [12] opened from [::1]:56730
+Apr 02 21:23 : client: [12] closed
+Apr 02 21:23 : client: [13] opened from [::1]:56734
+Apr 02 21:23 : client: [13] closed
+Apr 02 21:23 : client: [14] opened from [::1]:56740
+Apr 02 21:23 : player: played "Missing You - Kana Nishino.mp3"
+Apr 02 21:23 : client: [14] closed
+Apr 02 21:24 : client: [6] closed
+Apr 02 21:24 : client: [15] opened from [::1]:56748
+Apr 02 21:24 : client: [16] opened from [::1]:56752
+Apr 02 21:24 : exception: Not playing
+Apr 02 21:24 : client: [16] closed
+Apr 02 21:24 : client: [17] opened from [::1]:56754
+Apr 02 21:24 : exception: Not playing
+Apr 02 21:24 : client: [17] closed
+Apr 02 21:24 : client: [18] opened from [::1]:56756
+Apr 02 21:24 : client: [18] closed
+Apr 02 21:24 : client: [19] opened from [::1]:56758
+Apr 02 21:24 : client: [19] closed
+Apr 02 21:24 : client: [20] opened from [::1]:56760
+Apr 02 21:24 : client: [20] closed
+Apr 02 21:25 : client: [15] closed
+Apr 02 21:25 : client: [21] opened from [::1]:56762
+Apr 02 21:25 : client: [21] closed
+Apr 02 21:25 : client: [22] opened from [::1]:56764
+Apr 02 21:25 : client: [22] closed
+Apr 02 21:25 : client: [23] opened from [::1]:56766
+Apr 02 21:26 : client: [24] opened from [::1]:56768
+Apr 02 21:26 : client: [24] closed
+Apr 02 21:26 : client: [25] opened from [::1]:56770
+Apr 02 21:26 : client: [25] closed
+Apr 02 21:26 : client: [26] opened from [::1]:56772
+Apr 02 21:26 : client: [26] closed
+Apr 02 21:26 : client: [27] opened from [::1]:56774
+Apr 02 21:26 : client: [27] closed
+Apr 02 21:26 : client: [28] opened from [::1]:56776
+Apr 02 21:26 : client: [28] closed
+Apr 02 21:26 : client: [29] opened from [::1]:56778
+Apr 02 21:26 : client: [29] closed
+Apr 02 21:26 : client: [30] opened from [::1]:56780
+Apr 02 21:26 : client: [30] closed
+Apr 02 21:26 : client: [31] opened from [::1]:56782
+Apr 02 21:26 : client: [31] closed
+Apr 02 21:26 : client: [32] opened from [::1]:56784
+Apr 02 21:26 : client: [32] closed
+Apr 02 21:26 : client: [33] opened from [::1]:56786
+Apr 02 21:26 : client: [33] closed
+Apr 02 21:26 : client: [34] opened from [::1]:56788
+Apr 02 21:26 : client: [34] closed
+Apr 02 21:28 : client: [23] closed
+Apr 02 21:28 : client: [35] opened from [::1]:56940
+Apr 02 21:28 : client: [35] closed
+Apr 02 21:28 : client: [36] opened from [::1]:56948
+Apr 02 21:28 : client: [36] closed
+Apr 02 21:28 : client: [37] opened from [::1]:56950
+Apr 02 21:28 : client: [38] opened from [::1]:56952
+Apr 02 21:28 : client: [38] closed
+Apr 02 21:28 : client: [39] opened from [::1]:56954
+Apr 02 21:28 : client: [39] closed
+Apr 02 21:28 : client: [40] opened from [::1]:56960
+Apr 02 21:28 : client: [40] closed
+Apr 02 21:29 : client: [37] closed
+Apr 02 21:29 : client: [41] opened from [::1]:56962
+Apr 02 21:29 : client: [41] closed
+Apr 02 21:29 : client: [42] opened from [::1]:56964
+Apr 02 21:29 : client: [42] closed
+Apr 02 21:29 : client: [43] opened from [::1]:56966
+Apr 02 21:29 : client: [43] closed
+Apr 02 21:29 : client: [44] opened from [::1]:56970
+Apr 02 21:29 : client: [44] closed
+Apr 02 21:29 : client: [45] opened from [::1]:56972
+Apr 02 21:29 : client: [45] closed
+Apr 02 21:29 : client: [46] opened from [::1]:56976
+Apr 02 21:29 : client: [46] closed
+Apr 02 21:29 : client: [47] opened from [::1]:56978
+Apr 02 21:29 : client: [47] closed
+Apr 02 21:29 : client: [48] opened from [::1]:56980
+Apr 02 21:30 : client: [48] closed
+Apr 02 21:30 : client: [49] opened from [::1]:56982
+Apr 02 21:30 : client: [49] closed
+Apr 02 21:30 : client: [50] opened from [::1]:56988
+Apr 02 21:30 : client: [50] closed
+Apr 02 21:30 : client: [51] opened from [::1]:56990
+Apr 02 21:30 : client: [51] closed
+Apr 02 21:30 : client: [52] opened from [::1]:56992
+Apr 02 21:32 : client: [52] closed
+Apr 02 21:32 : client: [53] opened from [::1]:57048
+Apr 02 21:33 : client: [53] closed
+Apr 02 21:33 : client: [54] opened from [::1]:57064
+Apr 02 21:33 : client: [55] opened from [::1]:57066
+Apr 02 21:33 : client: [55] closed
+Apr 02 21:33 : client: [56] opened from [::1]:57072
+Apr 02 21:33 : client: [56] closed
+Apr 02 21:33 : client: [57] opened from [::1]:57074
+Apr 02 21:33 : player: played "Time to love - OCTOBER.flac"
+Apr 02 21:33 : client: [57] closed
+Apr 02 21:33 : client: [58] opened from [::1]:57080
+Apr 02 21:33 : client: [58] closed
+Apr 02 21:33 : client: [59] opened from [::1]:57082
+Apr 02 21:33 : player: played "Time to love - OCTOBER.flac"
+Apr 02 21:33 : client: [59] closed
+Apr 02 21:34 : client: [54] closed
+Apr 02 21:34 : client: [60] opened from [::1]:57102
+Apr 02 21:34 : client: [61] opened from [::1]:57104
+Apr 02 21:34 : client: [61] closed
+Apr 02 21:34 : client: [62] opened from [::1]:57106
+Apr 02 21:34 : client: [62] closed
+Apr 02 21:34 : client: [60] closed
+Apr 02 21:34 : client: [63] opened from [::1]:57108
+Apr 02 21:34 : client: [64] opened from [::1]:57110
+Apr 02 21:34 : client: [64] closed
+Apr 02 21:34 : client: [65] opened from [::1]:57112
+Apr 02 21:34 : client: [65] closed
+Apr 02 21:35 : client: [66] opened from [::1]:57114
+Apr 02 21:35 : client: [66] closed
+Apr 02 21:35 : client: [67] opened from [::1]:57116
+Apr 02 21:35 : client: [67] closed
+Apr 02 21:35 : client: [68] opened from [::1]:57118
+Apr 02 21:35 : client: [68] closed
+Apr 02 21:35 : client: [69] opened from [::1]:57120
+Apr 02 21:35 : client: [69] closed
+Apr 02 21:35 : client: [63] closed
+Apr 02 21:35 : client: [70] opened from [::1]:57122
+Apr 02 21:35 : client: [71] opened from [::1]:57124
+Apr 02 21:35 : client: [71] closed
+Apr 02 21:35 : client: [72] opened from [::1]:57126
+Apr 02 21:35 : client: [72] closed
+Apr 02 21:35 : client: [70] closed
+Apr 02 21:35 : client: [73] opened from [::1]:57128
+Apr 02 21:36 : client: [73] closed
+Apr 02 21:36 : client: [74] opened from [::1]:57130
+Apr 02 21:36 : client: [75] opened from [::1]:57132
+Apr 02 21:36 : player: played "Time to love - OCTOBER.flac"
+Apr 02 21:36 : client: [75] closed
+Apr 02 21:37 : client: [74] closed
+Apr 02 21:37 : client: [76] opened from [::1]:57142
+Apr 02 21:41 : client: [76] closed
+Apr 02 21:41 : client: [77] opened from [::1]:57324
+Apr 02 21:47 : client: [78] opened from [::1]:57400
+Apr 02 21:47 : client: [78] closed
+Apr 02 21:47 : client: [79] opened from [::1]:57402
+Apr 02 21:47 : client: [79] closed
+Apr 02 22:00 : client: [80] opened from [::1]:57416
+Apr 02 22:00 : player: played "Time to love - OCTOBER.flac"
+Apr 02 22:00 : client: [80] closed
