@@ -1,5 +1,6 @@
 # Manjaro i3 retro
 ### Some details
++ **Hardware**: Thinkpad x250
 + **OS**: Manjaro
 + **WM**: i3
 + **Terminal**: termite
