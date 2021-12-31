@@ -67,8 +67,8 @@ bindsym $mod+Ctrl+b exec i3-sensible-terminal -e 'bmenu'
 # bindsym $mod+t exec --no-startup-id pkill compton
 # bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
-bindsym $mod+Print exec --no-startup-id scrotmenu
-bindsym Print --release exec --no-startup-id i3-scrot 
+bindsym $mod+Print exec --no-startup-id ~/.config/rofi/scripts/rofi-screenshot
+bindsym Print --release exec --no-startup-id i3-scrot
 # bindsym $mod+Shift+Print --release exec --no-startup-id i3-scrot -s
 # bindsym $mod+Shift+h exec xdg-open /usr/share/doc/manjaro/i3_help.pdf
 # bindsym $mod+Ctrl+x --release exec --no-startup-id xkill
@@ -394,8 +394,8 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
-
-bindsym $mod+m exec --no-startup-id mpdmenu 
-bindsym $mod+d exec --no-startup-id appsmenu
-bindsym $mod+n exec --no-startup-id networkmenu 
-bindsym $mod+0 exec --no-startup-id powermenu
+ 
+bindsym $mod+d exec --no-startup-id ~/.config/rofi/scripts/rofi-apps
+bindsym $mod+n exec --no-startup-id ~/.config/rofi/scripts/rofi-network
+bindsym $mod+0 exec --no-startup-id ~/.config/rofi/scripts/rofi-power
+bindsym $mod+Shift+v exec --no-startup-id ~/.config/rofi/scripts/rofi-vpn
